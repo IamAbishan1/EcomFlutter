@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 32,
+      "name": "Business Casual Work Outfit",
+      "price": 50,
+      "discount_price": 25,
+      "description": "business-casual-dress-women-work-office-professional-outfit-essentials-miss-louie-57",
+      "quantity": 30,
+      "date_created": "2022-05-24 08:14:49",
+      "images": [
+        "https://abishanchemjong.com.np/ecommerce/public/product_images/2022/05/081449BusinessCasualWorkOutfit.jpg"
+      ],
+      "categories": [
+        2
+      ],
+      "wishlist_id": 6
+    },
+    {
+      "id": 42,
+      "name": "Women Fashion Backpack",
+      "price": 4500,
+      "discount_price": 400,
+      "description": "GUESS womens Helaina Flap Backpack, Almond, one size US",
+      "quantity": 20,
+      "date_created": "2022-05-24 11:56:54",
+      "images": [
+        "https://abishanchemjong.com.np/ecommerce/public/product_images/2022/05/115654Women Fashion Backpack.jpg"
+      ],
+      "categories": [
+        11
+      ],
+      "wishlist_id": 8
+    },
+    {
+      "id": 41,
+      "name": "Vaschy School Backpack",
+      "price": 4500,
+      "discount_price": 400,
+      "description": "The Vaschy classic unisex school backpacks are made of superior quality polyester. Polyester is the popular and ideal lightweight material for ultra-strong and heavy duty backpacks. ",
+      "quantity": 20,
+      "date_created": "2022-05-24 11:55:36",
+      "images": [
+        "https://abishanchemjong.com.np/ecommerce/public/product_images/2022/05/115536VASCHY School Backpack.jpg"
+      ],
+      "categories": [
+        11
+      ],
+      "wishlist_id": 14
+    }
+  ],
+  "error": false,
+  "message": "WishList Items Successfully Fetched"
+}
